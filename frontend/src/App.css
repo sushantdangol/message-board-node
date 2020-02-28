@@ -1,0 +1,34 @@
+body{
+    background-color:#c19a6b;
+}
+
+.custom-card{
+    width: 18rem;
+    margin: 12px;
+    height: 17rem;
+    background-color: #ffff88;
+}
+
+.subtitle{
+    font-size: 12px;
+}
+
+.notice{
+    margin-top: 50px;
+}
+
+.add-post{
+    background-color: #855E42;
+    padding: 10px;
+    color: white;
+}
+
+.btn-custom{
+    position: absolute;
+    top: 13rem;
+}
+
+.post-id{
+    color: gray;
+    font-size: 9px;
+}
